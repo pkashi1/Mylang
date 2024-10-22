@@ -20,5 +20,5 @@
 
 2. Navigate to the project folder:
     ```bash
-    cd shell.py
+    cd mylang
     python shell.py
